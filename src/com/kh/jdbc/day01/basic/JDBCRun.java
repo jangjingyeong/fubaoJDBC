@@ -14,7 +14,6 @@ public class JDBCRun {
 		 *  4. SQL 전송(쿼리문 실행)
 		 *  5. 결과 받기(ResultSet으로 바로 받아버림)
 		 *  6. 자원해제(close())
-		 *  
 		 */
 		
 		try {
